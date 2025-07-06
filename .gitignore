@@ -1,3 +1,4 @@
+HEAD
 # Gradle files
 .gradle/
 build/
@@ -32,3 +33,9 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+node_modules
+d5fc61d (Initial commit of OutreachGenie AI MVP)
+node_modules/
+.env
+
