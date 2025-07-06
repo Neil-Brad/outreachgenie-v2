@@ -38,4 +38,5 @@ node_modules
 d5fc61d (Initial commit of OutreachGenie AI MVP)
 node_modules/
 .env
+.next/
 
